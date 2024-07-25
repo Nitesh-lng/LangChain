@@ -1,4 +1,4 @@
-# LangChain
+# Developed an interactive tool for document-based conversations using LangChain
 
 Developed an interactive tool for document-based conversations using LangChain.** This web application facilitates user interaction with uploaded documents, allowing users to ask questions and receive relevant responses based on the document content. 
 
