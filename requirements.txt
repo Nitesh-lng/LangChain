@@ -1,0 +1,11 @@
+langchain
+langchain-community
+mistral
+tiktoken
+huggingface
+streamlit
+config
+openai
+docarray
+sentence-transformers
+mistralai
